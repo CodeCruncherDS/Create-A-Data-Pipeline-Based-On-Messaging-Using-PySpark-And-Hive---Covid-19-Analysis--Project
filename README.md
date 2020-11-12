@@ -1,4 +1,4 @@
-# Create-A-Data-Pipeline-Based-On-Messaging-Using-PySpark-And-Hive---Covid-19-Analysis--Project
+# Data Pipeline Based On Messaging Using PySpark And Hive Covid-19 Analysis 
 
 
 The purpose is to collect the real time streaming data from COVID19 open API for every 5
